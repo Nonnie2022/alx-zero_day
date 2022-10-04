@@ -1,1 +1,1 @@
-my second readme
+I am gradually getting used to Git commands, fantastic!
